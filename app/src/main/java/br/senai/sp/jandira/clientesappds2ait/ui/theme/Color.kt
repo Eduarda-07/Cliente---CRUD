@@ -1,0 +1,51 @@
+package br.senai.sp.jandira.clientesappds2ait.ui.theme
+
+import androidx.compose.ui.graphics.Color
+
+val Purple80 = Color(0xFFD0BCFF)
+val PurpleGrey80 = Color(0xFFCCC2DC)
+val Pink80 = Color(0xFFEFB8C8)
+
+val Purple40 = Color(0xFF6650a4)
+val PurpleGrey40 = Color(0xFF625b71)
+val Pink40 = Color(0xFF7D5260)
+
+// CORES DO TEMA CLARO
+val primaryLight = Color(0xFF8C4A60)
+val onPrimaryLight = Color(0xFFFFFFFF)
+val primaryContainerLight = Color(0xFFFFD9E2)
+val onPrimaryContainerLight = Color(0xFF703348)
+val secondaryLight = Color(0xFF74565F)
+val onSecondaryLight = Color(0xFFFFFFFF)
+val secondaryContainerLight = Color(0xFFFFD9E2)
+val onSecondaryContainerLight = Color(0xFF5B3F47)
+val tertiaryLight = Color(0xFF7C5635)
+val onTertiaryLight = Color(0xFFFFFFFF)
+val tertiaryContainerLight = Color(0xFFFFDCC1)
+val onTertiaryContainerLight = Color(0xFF613F20)
+val errorLight = Color(0xFFBA1A1A)
+val onErrorLight = Color(0xFFFFFFFF)
+val errorContainerLight = Color(0xFFFFDAD6)
+val onErrorContainerLight = Color(0xFF93000A)
+val backgroundLight = Color(0xFFFFF8F8)
+val onBackgroundLight = Color(0xFF22191B)
+
+// CORES DO TEMA ESCURO
+val primaryDark = Color(0xFFFFB1C8)
+val onPrimaryDark = Color(0xFF541D32)
+val primaryContainerDark = Color(0xFF703348)
+val onPrimaryContainerDark = Color(0xFFFFD9E2)
+val secondaryDark = Color(0xFFE3BDC6)
+val onSecondaryDark = Color(0xFF422931)
+val secondaryContainerDark = Color(0xFF5B3F47)
+val onSecondaryContainerDark = Color(0xFFFFD9E2)
+val tertiaryDark = Color(0xFFEFBD94)
+val onTertiaryDark = Color(0xFF48290B)
+val tertiaryContainerDark = Color(0xFF613F20)
+val onTertiaryContainerDark = Color(0xFFFFDCC1)
+val errorDark = Color(0xFFFFB4AB)
+val onErrorDark = Color(0xFF690005)
+val errorContainerDark = Color(0xFF93000A)
+val onErrorContainerDark = Color(0xFFFFDAD6)
+val backgroundDark = Color(0xFF191113)
+val onBackgroundDark = Color(0xFFEFDFE1)
